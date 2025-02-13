@@ -1,0 +1,89 @@
+<h1>Controls and Compliance Assessment</h1>
+    
+    <h2>Case Study</h2>
+    <p><strong>Botium Toys</strong> is a small U.S. business that develops and sells toys...</p>
+    
+    <h2>Scenario</h2>
+    <h3>Scope</h3>
+    <p>The scope is defined as the entire security program at Botium Toys...</p>
+    
+    <h3>Goals</h3>
+    <p>Assess existing assets and complete the controls and compliance checklist...</p>
+    
+    <h3>Current Assets</h3>
+    <ul>
+        <li>On-premises equipment...</li>
+        <li>Employee equipment...</li>
+        <li>Storefront products...</li>
+        <li>Management of systems...</li>
+        <li>Internet access...</li>
+    </ul>
+    
+    <h3>Risk Assessment</h3>
+    <h4>Risk Description</h4>
+    <p>Currently, there is inadequate management of assets...</p>
+    
+    <h4>Risk Score</h4>
+    <p>On a scale of 1 to 10, the risk score is <strong>8</strong>...</p>
+    
+    <h4>Additional Comments</h4>
+    <p>The potential impact from the loss of an asset is rated as medium...</p>
+    
+    <h2>Controls Assessment Checklist</h2>
+    <table>
+        <tr>
+            <th>Yes / No / ?</th>
+            <th>Control</th>
+            <th>Explanation</th>
+        </tr>
+        <tr>
+            <td>No</td>
+            <td>Least Privilege</td>
+            <td>The employees have access to customer data...</td>
+        </tr>
+        <tr>
+            <td>No</td>
+            <td>Disaster Recovery Plan</td>
+            <td>At the moment, there is no plan...</td>
+        </tr>
+    </table>
+    
+    <h2>Compliance Checklist</h2>
+    <h3>PCI DSS</h3>
+    <table>
+        <tr>
+            <th>Yes/ No / ?</th>
+            <th>Best Practice</th>
+            <th>Explanation</th>
+        </tr>
+        <tr>
+            <td>No</td>
+            <td>Authorized users can access customer credit card</td>
+            <td>At the moment, all employees have access...</td>
+        </tr>
+    </table>
+    
+    <h3>GDPR</h3>
+    <table>
+        <tr>
+            <th>Yes/ No / ?</th>
+            <th>Best Practice</th>
+            <th>Explanation</th>
+        </tr>
+        <tr>
+            <td>No</td>
+            <td>EU customers are kept secured</td>
+            <td>The organization does not apply GDPR practice...</td>
+        </tr>
+    </table>
+    
+    <h2>Recommendations</h2>
+    <p>After researching Botium Toys' security posture, analysts agreed...</p>
+    <ul>
+        <li>Least privilege</li>
+        <li>Disaster recovery plan</li>
+        <li>Password policies</li>
+        <li>Encryption</li>
+    </ul>
+</body>
+</html>
